@@ -54,7 +54,7 @@
   },
   "dependencies": {
     "@brillout/libassert": "^0.5.8",
-    "@manypkg/find-root": "^2.2.3",
+    "@manypkg/find-root": "^3.0.0",
     "@universal-middleware/vercel": "^0.4.12",
     "@vercel/build-utils": "^10.5.1",
     "@vercel/nft": "^0.29.2",
